@@ -7,8 +7,8 @@ setup(
   description = 'Biblioteca LibSerial1 ',   
   author = 'Sérgio Pastori',                  
   author_email = 'sergiopastori@gmail.com',     
-  url = 'https://github.com/path/LibSerial1',  
-  download_url = 'https://github.com/path/LibSerial1/archive/0.1.tar.gz',    
+  url = 'https://github.com/sergiopastori/LibSerial1',  
+  download_url = 'https://github.com/sergiopastori/LibSerial1/archive/0.1.tar.gz',    
   keywords = ['Serial', 'Senai', 'ComPort'],  
   install_requires=[           
           'datetime',
